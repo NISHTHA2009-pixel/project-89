@@ -1,0 +1,37 @@
+body
+{
+	background: url(https://i.pinimg.com/474x/df/4f/cc/df4fccdafce9c95a1ce229ee1f2d20eb.jpg)
+}
+
+	.login_div1 , .login_div2
+	{
+		background:url(https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80);
+ 		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(255, 0, 0);
+border-radius: 10px;
+border-top: 10px solid #000000;
+padding: 10px;
+float: none;
+text-align: left;
+}
+ 
